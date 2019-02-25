@@ -1,3 +1,5 @@
 Este e o exemplo de um ficheiro de texto...
 
 Estou a fazer alterações ao ficheiro
+
+ALTERAÇÕES EM Master 1
